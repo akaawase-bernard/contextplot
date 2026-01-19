@@ -10,6 +10,9 @@ Most plots show data accurately, but not always intuitively.
 
 ContextPlot helps by anchoring the data to something physical, so the viewer understands what the plot represents at a glance.
 
+![Plot](data/plot.png)
+
+
 ## Features
 
 - Add a design or site image into a Matplotlib plot
